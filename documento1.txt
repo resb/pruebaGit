@@ -2,5 +2,6 @@ jhkhgikjhkASDFASFAasfasdfa
 
 se agrego hot fix
 se agrego hot fix 2
-se añadio nuevo feature a documento1
-se añadio nuevo feature
+se aï¿½adio nuevo feature a documento1
+se aï¿½adio nuevo feature en rama dev
+se aï¿½adio nuevo feature
