@@ -1,6 +1,0 @@
-hola
-
-se hizo hotfix a master
-
-se añadio feature
-se añadio feature
