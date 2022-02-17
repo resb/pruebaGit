@@ -1,6 +1,5 @@
-jhkhgikjhkASDFASFAasfasdfa
+﻿jhkhgikjhkASDFASFAasfasdfa
 
-se agrego hot fix
 se agrego hot fix 2
 se a�adio nuevo feature a documento1
 se a�adio nuevo feature en rama dev
